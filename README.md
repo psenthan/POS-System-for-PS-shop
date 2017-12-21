@@ -8,6 +8,6 @@ And cash flows being maintained through graphs
 
 Automatically reorder if items are out of stock
 
-Print bills regarding paurchases
+Print bills regarding purchases
 
 
