@@ -4,10 +4,12 @@
 
 Read prices through bar code fuctionality
 
-And cash flows being maintained through graphs 
+Cash flows, available and sold items being maintained through graphs 
 
 Automatically reorder if items are out of stock
 
 Print bills regarding purchases
+
+
 
 
