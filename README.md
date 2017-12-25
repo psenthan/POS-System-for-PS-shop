@@ -6,7 +6,7 @@ Read prices through bar code fuctionality
 
 Cash flows, available and sold items being maintained through graphs 
 
-Automatically reorder if items are out of stock
+Alert message displays if available stocks are out of order
 
 Print bills regarding purchases
 
