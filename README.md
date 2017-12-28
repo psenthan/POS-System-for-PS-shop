@@ -10,6 +10,10 @@ Alert message displays if available stocks are out of order
 
 Print bills regarding purchases
 
+Storing purchasing information
+
+
+
 
 
 
