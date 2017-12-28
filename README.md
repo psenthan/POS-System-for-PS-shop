@@ -4,7 +4,7 @@
 
 Read prices through bar code fuctionality
 
-Cash flows, available and sold items being maintained through graphs 
+Cash flows, available and sold items being maintained through several graphs 
 
 Alert message displays if available stocks are out of order
 
