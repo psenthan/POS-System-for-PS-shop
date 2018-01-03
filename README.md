@@ -12,6 +12,12 @@ Print bills regarding purchases
 
 Storing purchasing information
 
+Billing management
+
+Supplier management
+
+Invoice maintenance
+
 
 
 
