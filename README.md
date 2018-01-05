@@ -18,6 +18,10 @@ Supplier management
 
 Invoice maintenance
 
+Barcode implementation
+
+Search products
+
 
 
 
