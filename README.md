@@ -18,7 +18,7 @@ Supplier management
 
 Invoice maintenance
 
-Barcode implementation
+Barcode reading implementation
 
 Search products
 
