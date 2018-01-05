@@ -10,7 +10,7 @@ Alert message displays if available stocks are out of order
 
 Print bills regarding purchases
 
-Storing purchasing information
+Storing selling information
 
 Billing management
 
@@ -18,9 +18,15 @@ Supplier management
 
 Invoice maintenance
 
-Barcode reading implementation
-
 Search products
+
+User Management
+
+Expences Management
+
+
+
+
 
 
 
